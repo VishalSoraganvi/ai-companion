@@ -7,5 +7,5 @@ interface CategoriesProps {
 }
 
 export const Categories = () => {
-  return <div>categories!</div>;
+  return <div>categories bar!</div>;
 };
